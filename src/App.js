@@ -22,11 +22,11 @@ function App() {
               ))}
             </ul>
           </header>
-          <div className="App-content">
-            {modules.map(module => (
-              <Route {...module.routeProps} key={module.name} />
-            ))}
-          </div>
+<div className="App-content">
+  {modules.map(module => (
+    <Route {...module.routeProps} key={module.name} />
+  ))}
+</div>
         </div>
       </Router>
   );

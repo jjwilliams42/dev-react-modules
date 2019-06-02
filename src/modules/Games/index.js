@@ -10,4 +10,4 @@ export default {
         component: Games,
     },
     name: 'Games',
-}
+};
