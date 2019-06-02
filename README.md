@@ -1,3 +1,10 @@
+This is the sample repository to accompany my dev.to article [Organizing Your React App Into Modules](https://dev.to/jack/organizing-your-react-app-into-modules).
+
+It shows how you can approach React development using modules.
+
+The fictional shell app we are building is a bug tracker for game studios to allow alpha and beta
+testers to easily report bugs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
