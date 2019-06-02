@@ -1,4 +1,4 @@
-This is the sample repository to accompany my dev.to article [Organizing Your React App Into Modules](https://dev.to/jack/organizing-your-react-app-into-modules).
+This is the sample repository to accompany my dev.to article [Organizing Your React App Into Modules](https://dev.to/jack/organizing-your-react-app-into-modules-d6n).
 
 It shows how you can approach React development using modules.
 
